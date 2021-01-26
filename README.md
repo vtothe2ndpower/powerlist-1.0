@@ -1,3 +1,4 @@
 # The Power List 1.0
+This projects uses React, React Hooks, Material UI and the Context API to create an interactive todo list experience. I've included several contexts in this application: Todos Context, Theme Context, and a Language Context. Each is responsible for its own piece of state and renders the necessary changes when there is a change in its piece. The user can toggle between a light and dark theme as well as various language options (English, Spanish, Japanese). Tasks that are submitted by the user are stored in local storage and will persist when the user returns to the web page. I use this application myself to track my tasks that I would like to get done for that day.
 
 *Technologies Used: React, Hooks & Reducers, Context API, Material-UI, LocalStorage*
